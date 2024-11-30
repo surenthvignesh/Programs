@@ -1,4 +1,4 @@
-Merge Strings Alternately
+1. Merge Strings Alternately
 	
 	Scenario_1:	
 		word1 = "abc"

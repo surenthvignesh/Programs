@@ -74,11 +74,16 @@
 
 	nums = [51,71,17,24,42]
 	max_sum(nums)
+	88
 
 	nums = [112,131,411]
 	max_sum(nums)
+	-1
 	
 	nums = [2536,1613,3366,162]
 	max_sum(nums)
+	5902
+
+	Tested with leetcode
 
 
