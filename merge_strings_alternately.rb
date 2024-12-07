@@ -55,3 +55,6 @@
 
 	  result += word1.size < word2.size ? word2[word1.size..] : word1[word2.size..]
 	end
+
+
+	
